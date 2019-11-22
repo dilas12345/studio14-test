@@ -166,14 +166,14 @@ class MobilePaymentContract extends Component {
 							name='sum'
 							value={this.state.sum}
 							onChange={event => this.onChangeInputValue(event)} />
-						<Currency>N</Currency>
+						<Currency>BTC</Currency>
 					</InputField>
 					<InputField>
 						<Label>Write off</Label>
 						<InputCommision value={this.getSumWithCommission()} />
-						<Currency>N</Currency>
+						<Currency>BTC</Currency>
 					</InputField>
-					<Commission>The size of the commission is {commission} N</Commission>
+					<Commission>The size of the commission is {commission} BTC</Commission>
 					<Underline />
 					<PaymentButton bgColor='#fff' textColor='#108051'>Pay</PaymentButton>
 				</form>

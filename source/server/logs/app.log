@@ -3210,3 +3210,13 @@
 [2019-11-22T00:17:24.012] [INFO] waller-app - GET /assets/visa-colored.svg - 0ms
 [2019-11-22T00:17:24.013] [INFO] waller-app - GET /assets/null-history.svg - 1ms
 [2019-11-22T00:17:24.014] [INFO] waller-app - GET /assets/ru-sberbank-history.svg - 1ms
+[2019-11-22T09:06:35.880] [INFO] waller-app - HttpServer is listening on port 3030 - http://localhost:3030
+[2019-11-22T09:06:35.883] [INFO] waller-app - HttpsServer is listening on port 3031 - https://localhost:3031
+[2019-11-22T09:08:08.407] [INFO] waller-app - HttpServer is listening on port 3030 - http://localhost:3030
+[2019-11-22T09:08:08.410] [INFO] waller-app - HttpsServer is listening on port 3031 - https://localhost:3031
+[2019-11-22T09:08:35.729] [INFO] waller-app - HttpServer is listening on port 3030 - http://localhost:3030
+[2019-11-22T09:08:35.731] [INFO] waller-app - HttpsServer is listening on port 3031 - https://localhost:3031
+[2019-11-22T09:09:05.888] [INFO] waller-app - HttpServer is listening on port 3030 - http://localhost:3030
+[2019-11-22T09:09:05.893] [INFO] waller-app - HttpsServer is listening on port 3031 - https://localhost:3031
+[2019-11-22T09:09:30.242] [INFO] waller-app - HttpServer is listening on port 3030 - http://localhost:3030
+[2019-11-22T09:09:30.245] [INFO] waller-app - HttpsServer is listening on port 3031 - https://localhost:3031

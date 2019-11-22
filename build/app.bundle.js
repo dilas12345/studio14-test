@@ -56025,7 +56025,7 @@ var _ = __webpack_require__(14);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var PrepaidLayout = /*#__PURE__*/(0, _react4.default)(_.Island, 'css-PrepaidLayout-1hijqah0', [], [], function createEmotionStyledRules() {
+var PrepaidLayout = /*#__PURE__*/(0, _react4.default)(_.Island, 'css-PrepaidLayout-1r1bkme0', [], [], function createEmotionStyledRules() {
 	return {
 		'width': '350px',
 		'display': '-webkit-box; display: -ms-flexbox; display: flex',
@@ -56039,7 +56039,7 @@ var PrepaidLayout = /*#__PURE__*/(0, _react4.default)(_.Island, 'css-PrepaidLayo
 	};
 });
 
-var CheckIcom = /*#__PURE__*/(0, _react4.default)('div', 'css-CheckIcom-1hijqah1', [], [], function createEmotionStyledRules() {
+var CheckIcom = /*#__PURE__*/(0, _react4.default)('div', 'css-CheckIcom-1r1bkme1', [], [], function createEmotionStyledRules() {
 	return {
 		'width': '48px',
 		'height': '48px',
@@ -56050,40 +56050,40 @@ var CheckIcom = /*#__PURE__*/(0, _react4.default)('div', 'css-CheckIcom-1hijqah1
 	};
 });
 
-var Header = /*#__PURE__*/(0, _react4.default)(_.Title, 'css-Header-1hijqah2', [], [], function createEmotionStyledRules() {
+var Header = /*#__PURE__*/(0, _react4.default)(_.Title, 'css-Header-1r1bkme2', [], [], function createEmotionStyledRules() {
 	return {
 		'color': '#fff'
 	};
 });
 
-var SectionGroup = /*#__PURE__*/(0, _react4.default)('div', 'css-SectionGroup-1hijqah3', [], [], function createEmotionStyledRules() {
+var SectionGroup = /*#__PURE__*/(0, _react4.default)('div', 'css-SectionGroup-1r1bkme3', [], [], function createEmotionStyledRules() {
 	return {
 		'marginBottom': '20px'
 	};
 });
 
-var Section = /*#__PURE__*/(0, _react4.default)('div', 'css-Section-1hijqah4', [], [], function createEmotionStyledRules() {
+var Section = /*#__PURE__*/(0, _react4.default)('div', 'css-Section-1r1bkme4', [], [], function createEmotionStyledRules() {
 	return {
 		'marginBottom': '20px',
 		'width': '100%'
 	};
 });
 
-var SectionLabel = /*#__PURE__*/(0, _react4.default)('div', 'css-SectionLabel-1hijqah5', [], [], function createEmotionStyledRules() {
+var SectionLabel = /*#__PURE__*/(0, _react4.default)('div', 'css-SectionLabel-1r1bkme5', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '13px',
 		'textAlign': 'left'
 	};
 });
 
-var SectionValue = /*#__PURE__*/(0, _react4.default)('div', 'css-SectionValue-1hijqah6', [], [], function createEmotionStyledRules() {
+var SectionValue = /*#__PURE__*/(0, _react4.default)('div', 'css-SectionValue-1r1bkme6', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '13px',
 		'letterSpacing': '0.6px'
 	};
 });
 
-var RepeatPayment = /*#__PURE__*/(0, _react4.default)('button', 'css-RepeatPayment-1hijqah7', [], [], function createEmotionStyledRules() {
+var RepeatPayment = /*#__PURE__*/(0, _react4.default)('button', 'css-RepeatPayment-1r1bkme7', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '13px',
 		'backgroundColor': 'rgba(0, 0, 0, 0.08)',
@@ -56164,7 +56164,7 @@ var PrepaidSuccess = function PrepaidSuccess(_ref) {
 					SectionValue,
 					null,
 					sum,
-					' N'
+					' BTC'
 				)
 			)
 		),
@@ -56352,20 +56352,20 @@ function _possibleConstructorReturn(self, call) { if (!self) { throw new Referen
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
-var MobilePaymentLayout = /*#__PURE__*/(0, _react4.default)(_.Island, 'css-MobilePaymentLayout-1496v5b0', [], [], function createEmotionStyledRules() {
+var MobilePaymentLayout = /*#__PURE__*/(0, _react4.default)(_.Island, 'css-MobilePaymentLayout-qsoqct0', [], [], function createEmotionStyledRules() {
 	return {
 		'width': '440px',
 		'background': '#108051'
 	};
 });
 
-var MobilePaymentTitle = /*#__PURE__*/(0, _react4.default)(_.Title, 'css-MobilePaymentTitle-1496v5b1', [], [], function createEmotionStyledRules() {
+var MobilePaymentTitle = /*#__PURE__*/(0, _react4.default)(_.Title, 'css-MobilePaymentTitle-qsoqct1', [], [], function createEmotionStyledRules() {
 	return {
 		'color': '#fff'
 	};
 });
 
-var InputField = /*#__PURE__*/(0, _react4.default)('div', 'css-InputField-1496v5b2', [], [], function createEmotionStyledRules() {
+var InputField = /*#__PURE__*/(0, _react4.default)('div', 'css-InputField-qsoqct2', [], [], function createEmotionStyledRules() {
 	return {
 		'display': '-webkit-box; display: -ms-flexbox; display: flex',
 		'WebkitBoxAlign': 'center',
@@ -56377,7 +56377,7 @@ var InputField = /*#__PURE__*/(0, _react4.default)('div', 'css-InputField-1496v5
 	};
 });
 
-var Label = /*#__PURE__*/(0, _react4.default)('div', 'css-Label-1496v5b3', [], [], function createEmotionStyledRules() {
+var Label = /*#__PURE__*/(0, _react4.default)('div', 'css-Label-qsoqct3', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '15px',
 		'color': '#fff',
@@ -56386,7 +56386,7 @@ var Label = /*#__PURE__*/(0, _react4.default)('div', 'css-Label-1496v5b3', [], [
 	};
 });
 
-var Currency = /*#__PURE__*/(0, _react4.default)('span', 'css-Currency-1496v5b4', [], [], function createEmotionStyledRules() {
+var Currency = /*#__PURE__*/(0, _react4.default)('span', 'css-Currency-qsoqct4', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '13px',
 		'color': '#fff',
@@ -56394,7 +56394,7 @@ var Currency = /*#__PURE__*/(0, _react4.default)('span', 'css-Currency-1496v5b4'
 	};
 });
 
-var Commission = /*#__PURE__*/(0, _react4.default)('div', 'css-Commission-1496v5b5', [], [], function createEmotionStyledRules() {
+var Commission = /*#__PURE__*/(0, _react4.default)('div', 'css-Commission-qsoqct5', [], [], function createEmotionStyledRules() {
 	return {
 		'color': 'rgba(255, 255, 255, 0.6)',
 		'fontSize': '13px',
@@ -56403,7 +56403,7 @@ var Commission = /*#__PURE__*/(0, _react4.default)('div', 'css-Commission-1496v5
 	};
 });
 
-var Underline = /*#__PURE__*/(0, _react4.default)('div', 'css-Underline-1496v5b6', [], [], function createEmotionStyledRules() {
+var Underline = /*#__PURE__*/(0, _react4.default)('div', 'css-Underline-qsoqct6', [], [], function createEmotionStyledRules() {
 	return {
 		'height': '1px',
 		'marginBottom': '20px',
@@ -56411,25 +56411,25 @@ var Underline = /*#__PURE__*/(0, _react4.default)('div', 'css-Underline-1496v5b6
 	};
 });
 
-var PaymentButton = /*#__PURE__*/(0, _react4.default)(_.Button, 'css-PaymentButton-1496v5b7', [], [], function createEmotionStyledRules() {
+var PaymentButton = /*#__PURE__*/(0, _react4.default)(_.Button, 'css-PaymentButton-qsoqct7', [], [], function createEmotionStyledRules() {
 	return {
 		'float': 'right'
 	};
 });
 
-var InputPhoneNumber = /*#__PURE__*/(0, _react4.default)(_.Input, 'css-InputPhoneNumber-1496v5b8', [], [], function createEmotionStyledRules() {
+var InputPhoneNumber = /*#__PURE__*/(0, _react4.default)(_.Input, 'css-InputPhoneNumber-qsoqct8', [], [], function createEmotionStyledRules() {
 	return {
 		'width': '225px'
 	};
 });
 
-var InputSum = /*#__PURE__*/(0, _react4.default)(_.Input, 'css-InputSum-1496v5b9', [], [], function createEmotionStyledRules() {
+var InputSum = /*#__PURE__*/(0, _react4.default)(_.Input, 'css-InputSum-qsoqct9', [], [], function createEmotionStyledRules() {
 	return {
 		'width': '160px'
 	};
 });
 
-var InputCommision = /*#__PURE__*/(0, _react4.default)(_.Input, 'css-InputCommision-1496v5b10', [], [], function createEmotionStyledRules() {
+var InputCommision = /*#__PURE__*/(0, _react4.default)(_.Input, 'css-InputCommision-qsoqct10', [], [], function createEmotionStyledRules() {
 	return {
 		'cursor': 'no-drop',
 		'width': '160px',
@@ -56594,7 +56594,7 @@ var MobilePaymentContract = function (_Component) {
 						_react2.default.createElement(
 							Currency,
 							null,
-							'N'
+							'BTC'
 						)
 					),
 					_react2.default.createElement(
@@ -56609,7 +56609,7 @@ var MobilePaymentContract = function (_Component) {
 						_react2.default.createElement(
 							Currency,
 							null,
-							'N'
+							'BTC'
 						)
 					),
 					_react2.default.createElement(
@@ -56617,7 +56617,7 @@ var MobilePaymentContract = function (_Component) {
 						null,
 						'The size of the commission is ',
 						commission,
-						' N'
+						' BTC'
 					),
 					_react2.default.createElement(Underline, null),
 					_react2.default.createElement(
@@ -56797,7 +56797,7 @@ var _ = __webpack_require__(14);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var MobilePaymentLayout = /*#__PURE__*/(0, _react4.default)(_.Island, 'css-MobilePaymentLayout-hypeu60', [], [], function createEmotionStyledRules() {
+var MobilePaymentLayout = /*#__PURE__*/(0, _react4.default)(_.Island, 'css-MobilePaymentLayout-1ulzicx0', [], [], function createEmotionStyledRules() {
 	return {
 		'width': '440px',
 		'background': '#108051',
@@ -56806,7 +56806,7 @@ var MobilePaymentLayout = /*#__PURE__*/(0, _react4.default)(_.Island, 'css-Mobil
 	};
 });
 
-var SuccessIcon = /*#__PURE__*/(0, _react4.default)('div', 'css-SuccessIcon-hypeu61', [], [], function createEmotionStyledRules() {
+var SuccessIcon = /*#__PURE__*/(0, _react4.default)('div', 'css-SuccessIcon-1ulzicx1', [], [], function createEmotionStyledRules() {
 	return {
 		'width': '48px',
 		'height': '48px',
@@ -56817,19 +56817,19 @@ var SuccessIcon = /*#__PURE__*/(0, _react4.default)('div', 'css-SuccessIcon-hype
 	};
 });
 
-var Header = /*#__PURE__*/(0, _react4.default)('div', 'css-Header-hypeu62', [], [], function createEmotionStyledRules() {
+var Header = /*#__PURE__*/(0, _react4.default)('div', 'css-Header-1ulzicx2', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '24px'
 	};
 });
 
-var Sum = /*#__PURE__*/(0, _react4.default)('div', 'css-Sum-hypeu63', [], [], function createEmotionStyledRules() {
+var Sum = /*#__PURE__*/(0, _react4.default)('div', 'css-Sum-1ulzicx3', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '48px'
 	};
 });
 
-var CommissionTips = /*#__PURE__*/(0, _react4.default)('div', 'css-CommissionTips-hypeu64', [], [], function createEmotionStyledRules() {
+var CommissionTips = /*#__PURE__*/(0, _react4.default)('div', 'css-CommissionTips-1ulzicx4', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '13px',
 		'opacity': '0.6',
@@ -56837,7 +56837,7 @@ var CommissionTips = /*#__PURE__*/(0, _react4.default)('div', 'css-CommissionTip
 	};
 });
 
-var Section = /*#__PURE__*/(0, _react4.default)('div', 'css-Section-hypeu65', [], [], function createEmotionStyledRules() {
+var Section = /*#__PURE__*/(0, _react4.default)('div', 'css-Section-1ulzicx5', [], [], function createEmotionStyledRules() {
 	return {
 		'position': 'relative',
 		'paddingLeft': '160px',
@@ -56845,7 +56845,7 @@ var Section = /*#__PURE__*/(0, _react4.default)('div', 'css-Section-hypeu65', []
 	};
 });
 
-var SectionLabel = /*#__PURE__*/(0, _react4.default)('div', 'css-SectionLabel-hypeu66', [], [], function createEmotionStyledRules() {
+var SectionLabel = /*#__PURE__*/(0, _react4.default)('div', 'css-SectionLabel-1ulzicx6', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '15px',
 		'position': 'absolute',
@@ -56853,20 +56853,20 @@ var SectionLabel = /*#__PURE__*/(0, _react4.default)('div', 'css-SectionLabel-hy
 	};
 });
 
-var SectionValue = /*#__PURE__*/(0, _react4.default)('div', 'css-SectionValue-hypeu67', [], [], function createEmotionStyledRules() {
+var SectionValue = /*#__PURE__*/(0, _react4.default)('div', 'css-SectionValue-1ulzicx7', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '15px'
 	};
 });
 
-var Instruction = /*#__PURE__*/(0, _react4.default)('div', 'css-Instruction-hypeu68', [], [], function createEmotionStyledRules() {
+var Instruction = /*#__PURE__*/(0, _react4.default)('div', 'css-Instruction-1ulzicx8', [], [], function createEmotionStyledRules() {
 	return {
 		'marginBottom': '40px',
 		'fontSize': '15px'
 	};
 });
 
-var RepeatPayment = /*#__PURE__*/(0, _react4.default)('button', 'css-RepeatPayment-hypeu69', [], [], function createEmotionStyledRules() {
+var RepeatPayment = /*#__PURE__*/(0, _react4.default)('button', 'css-RepeatPayment-1ulzicx9', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '13px',
 		'backgroundColor': 'rgba(0, 0, 0, 0.08)',
@@ -56909,14 +56909,14 @@ var MobilePaymentSuccess = function MobilePaymentSuccess(_ref) {
 			Sum,
 			null,
 			sum,
-			' N'
+			' BTC'
 		),
 		_react2.default.createElement(
 			CommissionTips,
 			null,
 			'Including commission ',
 			commission,
-			' N'
+			' BTC'
 		),
 		_react2.default.createElement(
 			Section,
@@ -57011,13 +57011,13 @@ function _possibleConstructorReturn(self, call) { if (!self) { throw new Referen
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
-var WithdrawTitle = /*#__PURE__*/(0, _react4.default)(_.Title, 'css-WithdrawTitle-1xtpnn50', [], [], function createEmotionStyledRules() {
+var WithdrawTitle = /*#__PURE__*/(0, _react4.default)(_.Title, 'css-WithdrawTitle-jz5mnp0', [], [], function createEmotionStyledRules() {
 	return {
 		'textAlign': 'center'
 	};
 });
 
-var WithdrawLayout = /*#__PURE__*/(0, _react4.default)(_.Island, 'css-WithdrawLayout-1xtpnn51', [], [], function createEmotionStyledRules() {
+var WithdrawLayout = /*#__PURE__*/(0, _react4.default)(_.Island, 'css-WithdrawLayout-jz5mnp1', [], [], function createEmotionStyledRules() {
 	return {
 		'width': '440px',
 		'display': '-webkit-box; display: -ms-flexbox; display: flex',
@@ -57031,14 +57031,14 @@ var WithdrawLayout = /*#__PURE__*/(0, _react4.default)(_.Island, 'css-WithdrawLa
 	};
 });
 
-var InputField = /*#__PURE__*/(0, _react4.default)('div', 'css-InputField-1xtpnn52', [], [], function createEmotionStyledRules() {
+var InputField = /*#__PURE__*/(0, _react4.default)('div', 'css-InputField-jz5mnp2', [], [], function createEmotionStyledRules() {
 	return {
 		'margin': '20px 0',
 		'position': 'relative'
 	};
 });
 
-var SumInput = /*#__PURE__*/(0, _react4.default)(_.Input, 'css-SumInput-1xtpnn53', [], [], function createEmotionStyledRules() {
+var SumInput = /*#__PURE__*/(0, _react4.default)(_.Input, 'css-SumInput-jz5mnp3', [], [], function createEmotionStyledRules() {
 	return {
 		'maxWidth': '200px',
 		'paddingRight': '20px',
@@ -57047,7 +57047,7 @@ var SumInput = /*#__PURE__*/(0, _react4.default)(_.Input, 'css-SumInput-1xtpnn53
 	};
 });
 
-var Currency = /*#__PURE__*/(0, _react4.default)('span', 'css-Currency-1xtpnn54', [], [], function createEmotionStyledRules() {
+var Currency = /*#__PURE__*/(0, _react4.default)('span', 'css-Currency-jz5mnp4', [], [], function createEmotionStyledRules() {
 	return {
 		'fontSize': '12px',
 		'position': 'absolute',
@@ -57179,7 +57179,7 @@ var Withdraw = function (_Component) {
 						_react2.default.createElement(
 							Currency,
 							null,
-							'N'
+							'BTC'
 						)
 					),
 					_react2.default.createElement(
@@ -57761,7 +57761,7 @@ var _ = __webpack_require__(14);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var HeaderLayout = /*#__PURE__*/(0, _react4.default)('header', 'css-HeaderLayout-9vbz3d0', [], [], function createEmotionStyledRules() {
+var HeaderLayout = /*#__PURE__*/(0, _react4.default)('header', 'css-HeaderLayout-1maydsr0', [], [], function createEmotionStyledRules() {
 	return {
 		'display': '-webkit-box; display: -ms-flexbox; display: flex',
 		'WebkitBoxPack': 'justify',
@@ -57779,13 +57779,13 @@ var HeaderLayout = /*#__PURE__*/(0, _react4.default)('header', 'css-HeaderLayout
 	};
 });
 
-var Balance = /*#__PURE__*/(0, _react4.default)(_.Title, 'css-Balance-9vbz3d1', [], [], function createEmotionStyledRules() {
+var Balance = /*#__PURE__*/(0, _react4.default)(_.Title, 'css-Balance-1maydsr1', [], [], function createEmotionStyledRules() {
 	return {
 		'margin': '0'
 	};
 });
 
-var BalanceSum = /*#__PURE__*/(0, _react4.default)('span', 'css-BalanceSum-9vbz3d2', [], [], function createEmotionStyledRules() {
+var BalanceSum = /*#__PURE__*/(0, _react4.default)('span', 'css-BalanceSum-1maydsr2', [], [], function createEmotionStyledRules() {
 	return {
 		'fontWeight': 'bold'
 	};
@@ -57804,7 +57804,7 @@ var Header = function Header(_ref) {
 			_react2.default.createElement(
 				BalanceSum,
 				null,
-				activeCard.balance + ' N'
+				activeCard.balance + ' BTC'
 			)
 		),
 		_react2.default.createElement(_.UserInfo, { user: user })
@@ -58480,7 +58480,7 @@ exports.default = App;
       "logoPng": "ru-akbars.png"
     },
     "ru-alfa": {
-      "name": "Falcon 1",
+      "name": "Альфа-Банк",
       "nameEn": "Alfa-Bank",
       "url": "https://alfabank.ru/",
       "backgroundColor": "#c22f24",
@@ -58745,23 +58745,23 @@ exports.default = App;
       "logoPng": "ru-novikom.png",
       "logoSvg": "ru-novikom.svg"
     },
-    // "ru-open": {
-    //   "name": "ФК Открытие",
-    //   "nameEn": "Otkritie FC",
-    //   "url": "https://www.open.ru/",
-    //   "backgroundColor": "#018ca5",
-    //   "backgroundColors": [
-    //     "#29c9f3",
-    //     "#00b3e1"
-    //   ],
-    //   "backgroundLightness": "dark",
-    //   "logoStyle": "colored",
-    //   "text": "#fff",
-    //   "alias": "ru-open",
-    //   "country": "ru",
-    //   "logoPng": "ru-open.png",
-    //   "logoSvg": "ru-open.svg"
-    // },
+    "ru-open": {
+      "name": "ФК Открытие",
+      "nameEn": "Otkritie FC",
+      "url": "https://www.open.ru/",
+      "backgroundColor": "#018ca5",
+      "backgroundColors": [
+        "#29c9f3",
+        "#00b3e1"
+      ],
+      "backgroundLightness": "dark",
+      "logoStyle": "colored",
+      "text": "#fff",
+      "alias": "ru-open",
+      "country": "ru",
+      "logoPng": "ru-open.png",
+      "logoSvg": "ru-open.svg"
+    },
     "ru-otp": {
       "name": "ОТП Банк",
       "nameEn": "OTP Bank",
@@ -58879,23 +58879,23 @@ exports.default = App;
       "logoPng": "ru-rgs.png",
       "logoSvg": "ru-rgs.svg"
     },
-    // "ru-rosbank": {
-    //   "name": "Росбанк",
-    //   "nameEn": "Rosbank bank",
-    //   "url": "http://www.rosbank.ru/",
-    //   "backgroundColor": "#b72127",
-    //   "backgroundColors": [
-    //     "#d3b9ba",
-    //     "#b1898b"
-    //   ],
-    //   "backgroundLightness": "light",
-    //   "logoStyle": "colored",
-    //   "text": "#fff",
-    //   "alias": "ru-rosbank",
-    //   "country": "ru",
-    //   "logoPng": "ru-rosbank.png",
-    //   "logoSvg": "ru-rosbank.svg"
-    // },
+    "ru-rosbank": {
+      "name": "Росбанк",
+      "nameEn": "Rosbank bank",
+      "url": "http://www.rosbank.ru/",
+      "backgroundColor": "#b72127",
+      "backgroundColors": [
+        "#d3b9ba",
+        "#b1898b"
+      ],
+      "backgroundLightness": "light",
+      "logoStyle": "colored",
+      "text": "#fff",
+      "alias": "ru-rosbank",
+      "country": "ru",
+      "logoPng": "ru-rosbank.png",
+      "logoSvg": "ru-rosbank.svg"
+    },
     "ru-roscap": {
       "name": "Российский Капитал",
       "nameEn": "Rossiysky Capital",
@@ -58913,7 +58913,7 @@ exports.default = App;
       "logoPng": "ru-roscap.png"
     },
     "ru-rossiya": {
-      "name": "Fare one",
+      "name": "Россия",
       "nameEn": "Rossiya",
       "url": "http://www.abr.ru/",
       "backgroundColor": "#eeeeee",
@@ -58929,7 +58929,7 @@ exports.default = App;
       "logoPng": "ru-rossiya.png"
     },
     "ru-rsb": {
-      "name": "Fare two",
+      "name": "Русский Стандарт",
       "nameEn": "Russian Standard Bank",
       "url": "https://www.rsb.ru/",
       "backgroundColor": "#414042",
@@ -58946,7 +58946,7 @@ exports.default = App;
       "logoSvg": "ru-rsb.svg"
     },
     "ru-rshb": {
-      "name": "Fare three",
+      "name": "Россельхозбанк",
       "nameEn": "Rosselkhozbank",
       "url": "http://www.rshb.ru/",
       "backgroundColor": "#007f2b",
@@ -58963,7 +58963,7 @@ exports.default = App;
       "logoSvg": "ru-rshb.svg"
     },
     "ru-sberbank": {
-      "name": "Travel Fare",
+      "name": "Сбербанк России",
       "nameEn": "Sberbank",
       "url": "https://www.sberbank.ru/",
       "backgroundColor": "#00995e",
@@ -59076,23 +59076,23 @@ exports.default = App;
       "country": "ru",
       "logoPng": "ru-tcb.png"
     },
-    // "ru-tinkoff": {
-    //   "name": "Тинькофф Банк",
-    //   "nameEn": "Tinkoff Bank",
-    //   "url": "https://www.tinkoff.ru/",
-    //   "backgroundColor": "#ffe52b",
-    //   "backgroundColors": [
-    //     "#444",
-    //     "#222"
-    //   ],
-    //   "backgroundLightness": "dark",
-    //   "logoStyle": "colored",
-    //   "text": "#000",
-    //   "alias": "ru-tinkoff",
-    //   "country": "ru",
-    //   "logoPng": "ru-tinkoff.png",
-    //   "logoSvg": "ru-tinkoff.svg"
-    // },
+    "ru-tinkoff": {
+      "name": "Тинькофф Банк",
+      "nameEn": "Tinkoff Bank",
+      "url": "https://www.tinkoff.ru/",
+      "backgroundColor": "#ffe52b",
+      "backgroundColors": [
+        "#444",
+        "#222"
+      ],
+      "backgroundLightness": "dark",
+      "logoStyle": "colored",
+      "text": "#000",
+      "alias": "ru-tinkoff",
+      "country": "ru",
+      "logoPng": "ru-tinkoff.png",
+      "logoSvg": "ru-tinkoff.svg"
+    },
     "ru-trust": {
       "name": "Траст",
       "nameEn": "Trust",
@@ -59227,24 +59227,24 @@ exports.default = App;
       "logoPng": "ru-vtb.png",
       "logoSvg": "ru-vtb.svg"
     },
-    // "ru-vtb24": {
-    //   "name": "ВТБ 24",
-    //   "nameEn": "VTB 24",
-    //   "url": "https://www.vtb24.ru/",
-    //   "backgroundColor": "#163b91",
-    //   "backgroundColors": [
-    //     "#c4cde4",
-    //     "#9fabcc",
-    //     "#dca9ad"
-    //   ],
-    //   "backgroundLightness": "light",
-    //   "logoStyle": "colored",
-    //   "text": "#fff",
-    //   "alias": "ru-vtb24",
-    //   "country": "ru",
-    //   "logoPng": "ru-vtb24.png",
-    //   "logoSvg": "ru-vtb24.svg"
-    // },
+    "ru-vtb24": {
+      "name": "ВТБ 24",
+      "nameEn": "VTB 24",
+      "url": "https://www.vtb24.ru/",
+      "backgroundColor": "#163b91",
+      "backgroundColors": [
+        "#c4cde4",
+        "#9fabcc",
+        "#dca9ad"
+      ],
+      "backgroundLightness": "light",
+      "logoStyle": "colored",
+      "text": "#fff",
+      "alias": "ru-vtb24",
+      "country": "ru",
+      "logoPng": "ru-vtb24.png",
+      "logoSvg": "ru-vtb24.svg"
+    },
     "ru-yandex": {
       "name": "Яндекс.Деньги",
       "nameEn": "Yandex.Money",

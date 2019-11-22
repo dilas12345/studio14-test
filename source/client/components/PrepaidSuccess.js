@@ -79,7 +79,7 @@ const PrepaidSuccess = ({transaction, repeatPayment}) => {
 				</Section>
 				<Section>
 					<SectionLabel>Amount:</SectionLabel>
-					<SectionValue>{sum} N</SectionValue>
+					<SectionValue>{sum} BTC</SectionValue>
 				</Section>
 			</SectionGroup>
 			<RepeatPayment onClick={repeatPayment}>Send another transaction</RepeatPayment>
